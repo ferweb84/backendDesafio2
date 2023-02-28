@@ -1,0 +1,20 @@
+[
+	{
+		"title": "Boina",
+		"description": "Color Gris",
+		"price": 3500,
+		"thumbnail": "Imagen boina",
+		"stock": 8,
+		"code": "Boi123",
+		"id": 1
+	},
+	{
+		"title": "Boina",
+		"description": "Color Negra",
+		"price": 3700,
+		"thumbnail": "Imagen boina",
+		"stock": 4,
+		"code": "Boi136",
+		"id": 2
+	}
+]
